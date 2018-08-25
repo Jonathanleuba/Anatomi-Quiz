@@ -1,4 +1,4 @@
-##Hey!
+Hey!
 
 
 I hope you'll enjoy this app, but bear with me, this is my first one. 
