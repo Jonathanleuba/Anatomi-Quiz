@@ -10,6 +10,6 @@ Great way to practice for your exams on and offline.
 
 Cheers, 
 
-jonathan@leuba.me
+jonathan leuba
 
 
